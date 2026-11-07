@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.repofree/
+build/
+dist/
+*.egg-info/
+.DS_Store
